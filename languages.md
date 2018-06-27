@@ -9,6 +9,35 @@
   - Angular/React
   - Node.js
 
+## Clojure
+
+- Dialect of Lisp
+- General-purpose
+- Functional
+- Runs on JVM and CLR (Common Language Runtime)
+- ClojureScript compiles to JS
+
+## Apache Groovy
+
+- OO/Imperative
+- Java
+- Examples
+  - Jenkins
+  - LinkedIn (some subsystems)
+  - Gradle
+  - Wired.com
+
+## Perl
+
+- General-purpose
+- OO/Imperative/Functional
+- Examples
+  - cPanel
+  - Craigslist
+  - IMDb
+  - Ticketmaster
+- Popular among system administrators
+
 ## Python
 
 ## PHP
@@ -26,14 +55,23 @@
 ## Rust
 
 - Sponsored by Mozilla
-- Functional and imperative-procedural
+- Functional/imperative-procedural
 - Syntax similar to C++
 - Most loved language on Stack Overflow (2016-18)
 - Projects
   - Firefox
   - Tor
 
-## F#
+## F# #
+
+- Functional/OO/Imperative
+- ML
+- Open-source and developed by Microsoft
+- "Optimized alternative to C#"
+- Examples
+  - Quantitative finance
+  - Machine learning
+  - Social gaming on Facebook
 
 ## .NET
 

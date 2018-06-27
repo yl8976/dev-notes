@@ -25,3 +25,9 @@
   - `Emoji` inserts emojis you search up
   - `DA UI` makes the Sublime Text UI beautiful
   - `Colorsublime` adjusts themes and previews them in real time
+
+## [Xi Editor](https://github.com/google/xi-editor)
+
+- Made by Google
+- Written in Rust
+- High performance
